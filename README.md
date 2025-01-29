@@ -35,22 +35,22 @@ How are restaurants listed by meal type (e.g., Buffet, Delivery, Dine-out), and 
 
 ## Key Insights and Recommendations
 - ### Online Ordering: 
-Neighborhoods like Koramangala and HSR Layout are leading in the availability of online ordering services, indicating a higher demand for convenience.
+  Neighborhoods like Koramangala and HSR Layout are leading in the availability of online ordering services, indicating a higher demand for convenience.
 - ### Table Booking: 
-Restaurants offering table bookings tend to have higher ratings, suggesting that providing table reservations could enhance customer experience and satisfaction.
+  Restaurants offering table bookings tend to have higher ratings, suggesting that providing table reservations could enhance customer experience and satisfaction.
 - ### Restaurant Ratings: 
-Popular neighborhoods like Koramangala and Indiranagar have the highest-rated restaurants, indicating a competitive dining market.
+  Popular neighborhoods like Koramangala and Indiranagar have the highest-rated restaurants, indicating a competitive dining market.
 - ### Customer Engagement: 
-Highly-rated restaurants receive more customer reviews, which can be a sign of active customer engagement. More reviews generally contribute to better restaurant visibility.
+  Highly-rated restaurants receive more customer reviews, which can be a sign of active customer engagement. More reviews generally contribute to better restaurant visibility.
 - ### Popular Cuisines: 
-North Indian, Chinese, and Bakery/Desserts dominate the culinary preferences in Bengaluru, with regional variations observed across neighborhoods.
+  North Indian, Chinese, and Bakery/Desserts dominate the culinary preferences in Bengaluru, with regional variations observed across neighborhoods.
 - ### Cost Analysis: 
-Restaurants in higher-end areas (e.g., Koramangala) tend to have higher costs, suggesting that customers in these areas are willing to pay more for premium dining experiences.
+  Restaurants in higher-end areas (e.g., Koramangala) tend to have higher costs, suggesting that customers in these areas are willing to pay more for premium dining experiences.
 - ### Restaurant Types: 
-Quick Bites and Casual Dining are the most common types of restaurants, and understanding their ratings and pricing will help optimize offerings.
+  Quick Bites and Casual Dining are the most common types of restaurants, and understanding their ratings and pricing will help optimize offerings.
 - ### Dishes Liked: 
-Dishes like Biryani and Masala Papad are widely liked across different restaurant types, providing insights into popular food preferences.
+  Dishes like Biryani and Masala Papad are widely liked across different restaurant types, providing insights into popular food preferences.
 - ### Meal Types: 
-Delivery, Dine-out, and Buffet are the most common meal types, with highly-rated restaurants offering a variety of meal options.
+  Delivery, Dine-out, and Buffet are the most common meal types, with highly-rated restaurants offering a variety of meal options.
 ## Conclusion
 The Zomato Bangalore Insights dashboard provides a comprehensive view of restaurant trends, customer preferences, and operational performance. By analyzing data across multiple dimensions, Zomato can improve restaurant visibility, customer engagement, and overall performance in Bengaluru’s competitive restaurant industry. These insights can drive strategic decisions to enhance customer satisfaction, optimize pricing, and expand restaurant offerings.
